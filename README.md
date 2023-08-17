@@ -1,9 +1,9 @@
 # Caesar Cipher Program
 
-<video width="600" autoplay loop muted>
-  <source src="https://github.com/Brij2/cieser-cypher/blob/1ca8691b2cac8c0c86d326564e5e24abe68d79a5/ciesercypher.py%20-%20CNS%20ASSIGNMENT%20SEM%207%20-%20Visual%20Studio%20Code%202023-08-17%2023-33-01.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/Brij2/cieser-cypher/assets/76843623/aca852a6-481d-4403-a0c0-2f3c043f941b
+
+
 
 This is a Python program that implements a menu-driven Caesar cipher algorithm with the following operations:
 
