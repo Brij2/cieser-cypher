@@ -1,4 +1,10 @@
 # Caesar Cipher Program
+
+<video width="600" autoplay loop muted>
+  <source src="VIDEO_URL_HERE" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 This is a Python program that implements a menu-driven Caesar cipher algorithm with the following operations:
 
 ## Encrypt Plain Text
